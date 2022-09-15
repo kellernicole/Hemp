@@ -8,7 +8,7 @@
       "schema": {
         "fields": [
           {
-            "name": "field1",
+            "name": "Kanton",
             "type": "string",
             "format": "default",
             "title": "Canton of Switzerland ",
