@@ -1,0 +1,159 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "hemp",
+      "path": "hanfanbau kantonal jährlich.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "field1",
+            "type": "string",
+            "format": "default",
+            "title": "Canton of Switzerland ",
+            "description": "Sorted alphabetically"
+          },
+          {
+            "name": "2021",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2020",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2019",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2018",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2017",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2016",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2015",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2014",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2013",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2012",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2011",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2010",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2009",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2008",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2007",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2006",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2005",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2004",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2003",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2002",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2001",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2000",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "1999",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Total",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "hemp",
+  "title": "Swisshemp_CA_1999_2021",
+  "description": "This dataset displays the legally cultivated areas of hemp (in ha) in Switzerland from 1999-2021.\n\n(CA = Cultivated Area)",
+  "homepage": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-0702000000_106/-/px-x-0702000000_106.px/table/tableViewLayout2/",
+  "version": "1.0",
+  "contributors": [
+    {
+      "title": "N. Keller / L. Cazzetta",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
